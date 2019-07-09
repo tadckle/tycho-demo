@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test
+Bundle-SymbolicName: tychodemo.bundle.test1
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: tychodemo.bundle
+Automatic-Module-Name: tychodemo.bundle.test

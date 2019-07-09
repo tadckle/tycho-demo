@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test2
+Bundle-SymbolicName: tychodemo.bundle.test2
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: tychodemo.bundle;bundle-version="0.0.1"
+Automatic-Module-Name: tychodemo.bundle.test2
+Require-Bundle: org.junit;bundle-version="4.8.2",
+ org.eclipse.jdt.junit.runtime;bundle-version="3.4.300"

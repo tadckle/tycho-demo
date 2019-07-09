@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tycho Demo Bundle
+Bundle-SymbolicName: tychodemo.bundle;singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: tychodemo.bundle.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.equinox.ds,
+ org.eclipse.equinox.util,
+ tychodemo.thirdparty;bundle-version="0.0.1"
+Automatic-Module-Name: tychodemo.bundle
+Bundle-ActivationPolicy: lazy
