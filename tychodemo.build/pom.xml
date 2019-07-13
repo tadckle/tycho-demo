@@ -13,6 +13,7 @@
     <module>../tychodemo.bundle.test1</module>
     <module>../tychodemo.bundle.test2</module>
     <module>../tychodemo.thirdparty</module>
+    <module>../tychodemo.feature</module>
   </modules>
 
   <properties>
