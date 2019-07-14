@@ -54,5 +54,17 @@
          </menu>
       </menuContribution>
    </extension>
+   <extension
+         id="tychodemoBundleProduct"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="tychodemo.bundle.application"
+            name="tychodemo.bundle">
+         <property
+               name="appName"
+               value="tychodemo.bundle">
+         </property>
+      </product>
+   </extension>
 
 </plugin>
